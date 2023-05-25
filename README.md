@@ -1,5 +1,5 @@
 # Amazing Developers On YouTube
-> A curated list of amazing development channels on YouTube. These include web development, back-end development, front-end development live coders and more!
+> Discover an extraordinary compilation of YouTube channels dedicated to development. This handpicked collection showcases an array of fascinating content, including web development, back-end development, front-end development, live coders, and more. Explore these channels to gain valuable insights, learn new skills, and stay up-to-date with the latest advancements in the field.
 
 
 - [Amazing Developers Of YouTube](#amazing-developers-of-youtube)
